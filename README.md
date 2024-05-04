@@ -1,4 +1,4 @@
-# wordpress-docker-bedrock-starter
+# boilerplate bedrock wp
 Docker Wordpress starter with bedrock where the goal is for you to be able to develop and use it eazy. Also works in a production enviornment.
 
 # Requirements
