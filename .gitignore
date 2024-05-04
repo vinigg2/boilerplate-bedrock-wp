@@ -1,10 +1,9 @@
 # wordpress
 ./webiste/bedrock/web/app/cache
-./webiste/bedrock/web/app/themes/*
-./webiste/bedrock/web/app/plugins/*
-./webiste/bedrock/web/app/uploads/*
-./webiste/bedrock/web/app/upgrade/*
-./webiste/bedrock/web/app/mu-plugins/*
+./webiste/bedrock/web/app/themes
+./webiste/bedrock/web/app/plugins
+./webiste/bedrock/web/app/uploads
+./webiste/bedrock/web/app/upgrade
 
 # vendor
 ./website/bedrock/vendor
